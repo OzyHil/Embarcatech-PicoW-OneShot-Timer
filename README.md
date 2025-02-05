@@ -19,7 +19,7 @@ Este projeto foi desenvolvido por mim, Hilquias Rodrigues de Oliveira, para demo
 
 ### Requisitos
 - Pico SDK instalado
-- VS Code com extensões do Raspberry Pi Pico, CMake e C/C++
+- VS Code com extensões do Wokwi Simulator, Raspberry Pi Pico, CMake e C/C++
 
 ### Passos
 1. Clone este repositório e abra a pasta do projeto no VS Code.
